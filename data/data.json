@@ -1,0 +1,34 @@
+{
+    "mobiles":[
+        {
+            "name": "Nokia 7.2",
+            "image": "img/1.jpg",
+            "originalPrice":  16000,
+            "price": 15999
+        },
+        {
+            "name": "Samsung A30",
+            "image": "img/2.jpg",
+            "originalPrice": 14000,
+            "price": 13999
+        },
+        {
+            "name": "Micromax",
+            "image": "img/3.jpg",
+            "originalPrice": 10000,
+            "price": 9999
+        },
+        {
+            "name": "Apple XS MAX",
+            "image": "img/4.jpg",
+            "originalPrice": 123999,
+            "price": 123999
+        },
+        {
+            "name": "Xioami",
+            "image": "img/5.jpg",
+            "originalPrice": 12000,
+            "price": 11999
+        }
+    ]
+}

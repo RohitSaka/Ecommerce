@@ -1,0 +1,21 @@
+.div {
+    text-align: center;
+}
+img {
+    width: 40%;
+    display: block;
+    margin: 1% auto;
+    transition : transform .2s;
+}
+
+.card {
+    margin-left: 5px;
+    margin-top: 18px;
+    box-shadow: 8px 10px 8px -8px rgb(6, 197, 255);
+    
+
+}
+
+img:hover {
+    transform: scaleX(1.5);
+}
